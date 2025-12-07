@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "See You Again",
+  "base_artist": "Wiz Khalifa",
+  "createdAt": "2025-12-07T01:16:33.824064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "'Til I See You Again",
+      "artist": "Catie Offerman",
+      "has_synced": true,
+      "path": "select/01_'Til_I_See_You_Again_Catie_Offerman.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I've Got To See You Again",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/02_I've_Got_To_See_You_Again_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Never See You Again",
+      "artist": "moistbreezy",
+      "has_synced": true,
+      "path": "select/03_If_I_Never_See_You_Again_moistbreezy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "See You Again",
+      "artist": "Loreen",
+      "has_synced": true,
+      "path": "select/04_See_You_Again_Loreen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "See You Again",
+      "artist": "DJ Fresh feat. Adam F & Michael Warren",
+      "has_synced": false,
+      "path": "select/05_See_You_Again_DJ_Fresh_feat._Adam_F_&_Michael_Warren.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When I See You Again",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/06_When_I_See_You_Again_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When I See You Again",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/07_When_I_See_You_Again_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I've Got To See You Again (Alternate Version – The Allaire Sessions)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/08_I've_Got_To_See_You_Again_(Alternate_Version_–_The_Allaire_Sessions)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I’ve Got to See You Again (alternate version – the Allaire Sessions)",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/09_I’ve_Got_to_See_You_Again_(alternate_version_–_the_Allaire_Sessions)_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll See You Again",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/10_I'll_See_You_Again_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "See You Again",
+      "artist": "Jason Falkner",
+      "has_synced": false,
+      "path": "select/11_See_You_Again_Jason_Falkner.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "has_synced": true,
+      "path": "select/12_See_You_Again_Wiz_Khalifa_feat._Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "See You Again",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/13_See_You_Again_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "See You Again (2008 Rock Mafia",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/14_See_You_Again_(2008_Rock_Mafia_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "See You Again (Johnny Coppola Dance You Again Remix Edit)",
+      "artist": "Miley Cyrus",
+      "has_synced": true,
+      "path": "select/15_See_You_Again_(Johnny_Coppola_Dance_You_Again_Remix_Edit)_Miley_Cyrus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "See You Again feat. Charlie Puth",
+      "artist": "Wiz Khalifa",
+      "has_synced": false,
+      "path": "select/pl_01_See_You_Again_feat._Charlie_Puth_Wiz_Khalifa.txt"
+    }
+  ]
+}
